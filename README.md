@@ -1,4 +1,4 @@
-# discord_moderation_template
+# discord Moderation Setting Template
 Some note regarding discord moderation server settings I used for some community servers.
 These are mainly focused on English-based discord servers so may not reflect common case which covered on other language.
 
